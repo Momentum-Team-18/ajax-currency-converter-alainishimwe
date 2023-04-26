@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9W2ZAbSb)
 # Currency Converter using Ajax
 
 In this project, you will use JavaScript and Ajax (using the `fetch()` function) to communicate with [the Open Exchange Rates API](https://openexchangerates.org/) in order to convert an amount of currency to another type of currency.
